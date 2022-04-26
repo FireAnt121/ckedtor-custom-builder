@@ -1,0 +1,24 @@
+/*
+ * Copyright (c) 2003-2022, CKSource Holding sp. z o.o. All rights reserved.
+ * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
+ */
+
+ .ck.fire_heading1 {
+	font-size: 20px;
+}
+
+.ck.fire_heading2 {
+	font-size: 2.5rem;
+	font-weight: 700;
+	line-height: 3rem;
+}
+
+.ck.fire_heading3 {
+	font-weight: 400;
+    line-height: 1.575rem;
+    font-size: 1.125rem;
+}
+
+/* .ck[class*="ck-heading_heading"] {
+	font-weight: bold;
+} */
